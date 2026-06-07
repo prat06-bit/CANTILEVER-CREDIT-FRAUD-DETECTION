@@ -3,6 +3,7 @@
 An end-to-end machine-learning pipeline for detecting fraudulent credit card
 transactions, built on the standard
 [Kaggle Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
 (284,807 transactions by European cardholders, September 2013).
 
 ---
@@ -247,5 +248,6 @@ PRODUCTION_TARGET_RECALL = 0.80
 ## 📄 License
 
 This project is developed as part of the CANTILEVER internship program.
-#   C A N T I L E V E R - C R E D I T - F R A U D - D E T E C T I O N  
+#   C A N T I L E V E R - C R E D I T - F R A U D - D E T E C T I O N 
+ 
  
